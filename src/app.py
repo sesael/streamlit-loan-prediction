@@ -1,3 +1,10 @@
+"""
+The Render web link for the project is:
+
+streamlit-loan-prediction.onrender.com
+
+"""
+
 import streamlit as st
 import pandas as pd
 import numpy as np
